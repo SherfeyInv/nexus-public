@@ -106,7 +106,7 @@
 
     <it.includes>**/*IT.*</it.includes>
 
-    <it.includedGroups></it.includedGroups>
+    <it.includedGroups/>
     <it.excludedGroups>
       org.sonatype.goodies.testsupport.group.Perf,
       org.sonatype.goodies.testsupport.group.External,
@@ -211,7 +211,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-common</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
       </dependency>
 
       <dependency>
@@ -279,7 +279,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-extdirect</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.82.0-08</version>
       </dependency>
 
       <dependency>
@@ -396,7 +396,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-repository-services</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
       </dependency>
 
       <dependency>
