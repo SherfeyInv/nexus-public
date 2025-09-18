@@ -211,13 +211,13 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-common</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
       </dependency>
 
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-core</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
       </dependency>
 
       <dependency>
@@ -371,13 +371,13 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-rapture</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
       </dependency>
 
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-rapture</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
         <classifier>sources</classifier>
       </dependency>
 
