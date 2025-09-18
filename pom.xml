@@ -530,7 +530,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-test-common</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.83.0-08</version>
       </dependency>
 
       <dependency>
