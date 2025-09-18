@@ -480,7 +480,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-thread</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.84.0-03</version>
       </dependency>
 
       <dependency>
