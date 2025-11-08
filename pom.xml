@@ -157,7 +157,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-base</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.86.0-08</version>
       </dependency>
 
       <dependency>
