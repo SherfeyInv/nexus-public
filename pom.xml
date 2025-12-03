@@ -187,7 +187,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-capability</artifactId>
-        <version>3.84.0-03</version>
+        <version>3.87.0-03</version>
       </dependency>
 
       <dependency>
