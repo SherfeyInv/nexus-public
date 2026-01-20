@@ -217,7 +217,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-core</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -396,7 +396,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-repository-services</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -468,7 +468,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-swagger</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
