@@ -187,7 +187,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-capability</artifactId>
-        <version>3.84.0-03</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -297,7 +297,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-httpclient</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -309,7 +309,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-scheduling</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -408,7 +408,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-rest</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -432,7 +432,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-security</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -504,7 +504,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-validation</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
