@@ -309,7 +309,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-scheduling</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -408,7 +408,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-rest</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -480,7 +480,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-thread</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
