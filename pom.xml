@@ -504,7 +504,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-validation</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
