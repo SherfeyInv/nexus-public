@@ -187,7 +187,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-capability</artifactId>
-        <version>3.84.0-03</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -273,7 +273,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-email</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -396,7 +396,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-repository-services</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
@@ -426,7 +426,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-script</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.88.0-08</version>
       </dependency>
 
       <dependency>
