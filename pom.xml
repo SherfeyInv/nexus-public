@@ -279,7 +279,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-extdirect</artifactId>
-        <version>3.77.0-08</version>
+        <version>3.82.0-08</version>
       </dependency>
 
       <dependency>
