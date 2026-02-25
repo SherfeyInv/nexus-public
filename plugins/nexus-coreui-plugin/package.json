@@ -14,7 +14,7 @@
     "watch": "webpack --config webpack.dev.js  --watch"
   },
   "dependencies": {
-    "@babel/runtime": "7.17.2",
+    "@babel/runtime": "7.28.6",
     "@fortawesome/fontawesome-svg-core": "1.2.25",
     "@fortawesome/free-brands-svg-icons": "5.13.1",
     "@fortawesome/free-solid-svg-icons": "5.11.2",
@@ -22,7 +22,7 @@
     "@nivo/line": "^0.85.0",
     "@sonatype/react-shared-components": "13.1.6",
     "@xstate/react": "3.2.2",
-    "axios": "1.12.0",
+    "axios": "1.13.5",
     "classnames": "2.3.1",
     "luxon": "1.28.1",
     "ramda": "0.28.0",
@@ -58,7 +58,7 @@
     "sass": "1.38.0",
     "sass-loader": "12.6.0",
     "terser-webpack-plugin": "5.3.1",
-    "webpack": "5.69.1",
+    "webpack": "5.104.1",
     "webpack-cli": "4.9.2",
     "webpack-merge": "5.8.0"
   },

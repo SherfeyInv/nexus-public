@@ -10,14 +10,14 @@
     "watch": "webpack --config webpack.dev.js  --watch"
   },
   "dependencies": {
-    "@babel/runtime": "7.17.2",
+    "@babel/runtime": "7.28.6",
     "@fortawesome/fontawesome-svg-core": "1.2.25",
     "@fortawesome/free-solid-svg-icons": "5.11.2",
     "@fortawesome/react-fontawesome": "0.1.4",
     "@sonatype/nexus-ui-plugin": "workspace:*",
     "@sonatype/react-shared-components": "13.1.6",
     "@xstate/inspect": "0.4.1",
-    "axios": "1.6.4",
+    "axios": "1.13.5",
     "core-js": "3.28.0",
     "luxon": "1.28.1",
     "react": "17.0.2",
@@ -40,7 +40,7 @@
     "sass": "1.38.0",
     "sass-loader": "12.6.0",
     "terser-webpack-plugin": "5.3.1",
-    "webpack": "5.69.1",
+    "webpack": "5.104.1",
     "webpack-cli": "4.9.2",
     "webpack-merge": "5.8.0"
   }
