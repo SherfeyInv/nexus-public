@@ -18,7 +18,7 @@
     "watch": "rspack --config rspack.dev.js  --watch"
   },
   "dependencies": {
-    "@babel/runtime": "7.17.2",
+    "@babel/runtime": "7.26.10",
     "@biomejs/biome": "2.3.7",
     "@fortawesome/fontawesome-svg-core": "1.2.25",
     "@fortawesome/free-brands-svg-icons": "5.13.1",
@@ -28,7 +28,7 @@
     "@sonatype/react-shared-components": "14.0.3",
     "@uirouter/react": "1.0.7",
     "@xstate/react": "3.2.2",
-    "axios": "1.12.0",
+    "axios": "1.13.5",
     "classnames": "2.3.1",
     "luxon": "1.28.1",
     "react": "19.1.0",
