@@ -222,7 +222,7 @@
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-utils</artifactId>
-        <version>3.5.1</version>
+        <version>4.0.3</version>
       </dependency>
 
       <dependency>
@@ -252,7 +252,7 @@
       <dependency>
         <groupId>org.mozilla</groupId>
         <artifactId>rhino</artifactId>
-        <version>1.7.13</version>
+        <version>1.7.14.1</version>
       </dependency>
 
       <dependency>
